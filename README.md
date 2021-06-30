@@ -2,7 +2,7 @@
 
 Este proyecto tiene el propósito de analizar un servicio de atencion al cliente en los servicios de transporte en la red social de Twitter.
 
-A modo de ejemplo, este repositorio se encarga de realizar el análisis de la plataforma **"@Uber_Support"** de la empresa Uber durante el año completo de 2020.
+A modo de ejemplo, este repositorio se encargará de realizar el análisis de la plataforma **"@Uber_Support"** de la empresa Uber durante el año completo de 2020.
 
 Para ello, se ha dividido el repositorio en una serie de carpetas con los notebooks necesarios para realizar cada uno de los pasos de la arquitectura propuesta más abajo.
 
