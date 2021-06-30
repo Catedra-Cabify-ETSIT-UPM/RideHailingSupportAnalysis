@@ -41,7 +41,9 @@ Para ejecutar los notebooks del proyecto es necesario tener instaladas las difer
 
 ### Analisis y pruebas realizadas 🔧
 
-En la siguiente imagen se muestra los diferentes analisis realizados para obtener el sentimiento asociado a cada uno de los temas descritos en la plataforma.
+En la siguiente imagen se muestra los diferentes analisis realizados para obtener el sentimiento asociado a cada uno de los temas descritos en la plataforma:
+
+![alt text](https://github.com/amorenog9/RideHailingSupportAnalysis/blob/main/Arquitectura.png)
 
 
 ## Autores ✒️
